@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d1f0acb-1c7a-4c47-960f-be2fdd70071a" name="默认的" comment="实现了登陆注册" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="student.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student/js/student.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="552" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="552" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animates.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student/js/animates.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" lean-forward="true" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myupload.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student/js/myupload.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2565">
+              <caret line="135" column="28" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="293" column="7" lean-forward="true" selection-end-line="293" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ofwebrtc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student/js/ofwebrtc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="134" column="1" lean-forward="true" selection-end-line="134" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screenShot.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student/js/screenShot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="146" column="1" lean-forward="true" selection-end-line="146" selection-end-column="1" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/student/css/upload.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="421" column="1" lean-forward="true" selection-start-line="63" selection-end-line="421" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student/css/student.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="803" column="18" lean-forward="true" selection-start-line="803" selection-start-column="18" selection-end-line="803" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\n    \&lt;title\&gt;教学软件\-\-欢迎使用\&lt;\/title\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/base\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/logIn\.css\&quot;\&gt;\n    \&lt;script type\=\&quot;text\/javascript\&quot; src\=\&quot;js\/strophe\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script type\=\&quot;text\/javascript\&quot; src\=\&quot;js\/jquery\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script type\=\&quot;text\/javascript\&quot; src\=\&quot;layer\/layer\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script type\=\&quot;text\/javascript\&quot; src\=\&quot;js\/logIn\.js\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;img src\=\&quot;images\/底图\.jpg\&quot; alt\=\&quot;\&quot; class\=\&quot;bottomMap\&quot;\/\&gt;\n\&lt;div class\=\&quot;logIn\&quot;\&gt;\n  \&lt;div class\=\&quot;input\&quot;\&gt;\n      \&lt;div class\=\&quot;top\&quot;\&gt;\n         \&lt;div\&gt;\&lt;\/div\&gt;\n          \&lt;img src\=\&quot;images\/人\.png\&quot; alt\=\&quot;\&quot;\/\&gt;\n      \&lt;\/div\&gt;\n      \&lt;div class\=\&quot;middle\&quot;\&gt;\n          \&lt;img src\=\&quot;images\/account\.png\&quot; alt\=\&quot;\&quot; class\=\&quot;useName\-photo\&quot;\&gt;\n          \&lt;input type\=\&quot;text\&quot; id\=\&quot;useName\&quot;\&gt;\n          \&lt;img src\=\&quot;images\/password\.png\&quot; class\=\&quot;password\-photo\&quot;\&gt;\n          \&lt;input type\=\&quot;password\&quot; id\=\&quot;password\&quot;\&gt;\n      \&lt;\/div\&gt;\n      \&lt;div class\=\&quot;choice\&quot;\&gt;\n           \&lt;input type\=\&quot;radio\&quot;name\=\&quot;occupation\&quot; id\=\&quot;student\&quot; \&gt;\&lt;span class\=\&quot;studentName\&quot;\&gt;学生\&lt;\/span\&gt;\n          \&lt;input type\=\&quot;radio\&quot;name\=\&quot;occupation\&quot; id\=\&quot;teacher\&quot;\&gt;\&lt;span class\=\&quot;teacherName\&quot;\&gt;教师\&lt;\/span\&gt;\n          \&lt;a href\=\&quot;\#\&quot; class\=\&quot;help\&quot;\&gt;忘记密码\？\&lt;\/a\&gt;\n      \&lt;\/div\&gt;\n      \&lt;div class\=\&quot;bottom\&quot;\&gt;\n          \&lt;a href\=\&quot;\#\&quot; id\=\&quot;guide\&quot;\&gt;\&lt;button  id\=\&quot;getInto\&quot; \&gt;登入\&lt;\/button\&gt;\&lt;\/a\&gt;\n          \&lt;button value\=\&quot;注册\&quot; id\=\&quot;register\&quot;\&gt;注册\&lt;\/button\&gt;\n      \&lt;\/div\&gt;\n\n  \&lt;\/div\&gt;\n\n\n\n\&lt;\/div\&gt;\n\n\n\n\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;</find>
+      <find>top-nav</find>
+      <find>lis</find>
+      <find>line</find>
+      <find>left</find>
+      <find>divs</find>
+      <find>readM</find>
+      <find>msg</find>
+      <find>connection</find>
+      <find>img/txt.png</find>
+      <find>images</find>
+      <find>img/bg.png</find>
+      <find>img/</find>
+      <find>user@hi</find>
+      <find>confer</find>
+      <find>hi</find>
+      <find>webuploader-pick-disable</find>
+      <find>label</find>
+      <find>refresh</find>
+      <find>disable</find>
+      <find>input</find>
+      <find>webuploader-pick</find>
+      <find>top</find>
+      <find>rt_</find>
+      <find>getContainer</find>
+      <find>show</find>
+      <find>la</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>iq</replace>
+      <replace>images/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="G:/函数/DomDemo.html" />
+        <option value="$PROJECT_DIR$/css/note.css" />
+        <option value="$PROJECT_DIR$/photo.html" />
+        <option value="$PROJECT_DIR$/css/photo.css" />
+        <option value="$PROJECT_DIR$/note.html" />
+        <option value="$PROJECT_DIR$/css/video.css" />
+        <option value="$PROJECT_DIR$/video.html" />
+        <option value="$PROJECT_DIR$/css/file.css" />
+        <option value="$PROJECT_DIR$/file.html" />
+        <option value="$PROJECT_DIR$/css/register.css" />
+        <option value="$PROJECT_DIR$/css/task.css" />
+        <option value="$PROJECT_DIR$/task.html" />
+        <option value="$PROJECT_DIR$/notice.html" />
+        <option value="$PROJECT_DIR$/css/notice.css" />
+        <option value="$PROJECT_DIR$/css/base.css" />
+        <option value="$PROJECT_DIR$/css/studentInterface.css" />
+        <option value="$PROJECT_DIR$/css/teacherInterface.css" />
+        <option value="$PROJECT_DIR$/message.html" />
+        <option value="$PROJECT_DIR$/css/logIn.css" />
+        <option value="$PROJECT_DIR$/css/message.css" />
+        <option value="$PROJECT_DIR$/studentInterface.html" />
+        <option value="$PROJECT_DIR$/js/studentInterface.js" />
+        <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/js/register.js" />
+        <option value="$PROJECT_DIR$/student/js/animates.js" />
+        <option value="$PROJECT_DIR$/js/logIn.js" />
+        <option value="$PROJECT_DIR$/teacherInterface.html" />
+        <option value="$PROJECT_DIR$/student/js/resever.js" />
+        <option value="$PROJECT_DIR$/index/css/logIn.css" />
+        <option value="$PROJECT_DIR$/index/js/upload.js" />
+        <option value="$PROJECT_DIR$/teacher/css/upload.css" />
+        <option value="$PROJECT_DIR$/teacher/js/upload.js" />
+        <option value="$PROJECT_DIR$/teacher/js/whiteboard.js" />
+        <option value="$PROJECT_DIR$/teacher/js/muc.js" />
+        <option value="$PROJECT_DIR$/student/js/myupload.js" />
+        <option value="$PROJECT_DIR$/logIn.html" />
+        <option value="$PROJECT_DIR$/index/js/webuploader-0.1.5/webuploader.js" />
+        <option value="$PROJECT_DIR$/teacher/css/teacher.css" />
+        <option value="$PROJECT_DIR$/index/js/webuploader-0.1.5/webuploader.css" />
+        <option value="$PROJECT_DIR$/teacher/js/myupload.js" />
+        <option value="$PROJECT_DIR$/teacher.html" />
+        <option value="$PROJECT_DIR$/index/register.html" />
+        <option value="$PROJECT_DIR$/teacher/js/teacher.js" />
+        <option value="$PROJECT_DIR$/student/css/student.css" />
+        <option value="$PROJECT_DIR$/index/js/logIn.js" />
+        <option value="$PROJECT_DIR$/student/js/student.js" />
+        <option value="$PROJECT_DIR$/student.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xmpp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmpp-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xmpp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmpp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xmpp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmpp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xmpp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmpp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xmpp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmpp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xmpp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmpp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xmpp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmpp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xmpp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmpp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="G:/xmpp-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\xmpp-master\xmpp-master\teacher\js" />
+      <recent name="C:\Users\ASUS\Desktop\xmpp-master\xmpp-master\index\js" />
+      <recent name="C:\Users\ASUS\Desktop\xmpp\student" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\969610745\969610745\FileRecv\xmpp-master\student\js" />
+      <recent name="C:\Users\ASUS\Desktop\xmpp-master\xmpp-master\student\css" />
+      <recent name="C:\Users\ASUS\Desktop\xmpp-master\xmpp-master\student\js" />
+      <recent name="C:\Users\ASUS\Desktop\xmpp-master\xmpp-master\teacher\js" />
+      <recent name="C:\Users\ASUS\Desktop\xmpp-master\xmpp-master\index\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1f0acb-1c7a-4c47-960f-be2fdd70071a" name="默认的" comment="" />
+      <created>1541312297513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541312297513</updated>
+      <workItem from="1541312298826" duration="1464000" />
+      <workItem from="1541409180613" duration="14713000" />
+      <workItem from="1541474476469" duration="6330000" />
+      <workItem from="1541485730262" duration="267000" />
+      <workItem from="1541486035541" duration="3715000" />
+      <workItem from="1541490359758" duration="1342000" />
+      <workItem from="1541493947519" duration="6991000" />
+      <workItem from="1541557625092" duration="13065000" />
+      <workItem from="1541591501209" duration="6622000" />
+      <workItem from="1541598319538" duration="2613000" />
+      <workItem from="1542283601009" duration="6205000" />
+      <workItem from="1542692009757" duration="16108000" />
+      <workItem from="1542853884671" duration="593000" />
+      <workItem from="1542854502986" duration="4461000" />
+      <workItem from="1542972090305" duration="20000" />
+      <workItem from="1543157308001" duration="3078000" />
+      <workItem from="1543208548478" duration="18168000" />
+      <workItem from="1543230786231" duration="4651000" />
+      <workItem from="1543281825087" duration="1845000" />
+      <workItem from="1544239347118" duration="15001000" />
+      <workItem from="1548320934827" duration="554000" />
+      <workItem from="1548323895512" duration="274000" />
+      <workItem from="1552653936219" duration="8713000" />
+      <workItem from="1552708983625" duration="5492000" />
+      <workItem from="1552896335790" duration="1608000" />
+      <workItem from="1553049163283" duration="1358000" />
+      <workItem from="1553411594618" duration="3599000" />
+      <workItem from="1553497220560" duration="1188000" />
+      <workItem from="1553691855110" duration="2875000" />
+      <workItem from="1556009477975" duration="1169000" />
+      <workItem from="1556358342492" duration="14000" />
+      <workItem from="1556358451892" duration="81000" />
+      <workItem from="1557155838669" duration="174000" />
+      <workItem from="1557229882733" duration="601000" />
+      <workItem from="1557231795556" duration="9290000" />
+      <workItem from="1557289130785" duration="8994000" />
+      <workItem from="1557312152933" duration="1673000" />
+      <workItem from="1557313874920" duration="11398000" />
+      <workItem from="1557368068961" duration="10505000" />
+      <workItem from="1557408738134" duration="910000" />
+      <workItem from="1557409688082" duration="1538000" />
+      <workItem from="1557412039269" duration="3902000" />
+      <workItem from="1557540772897" duration="809000" />
+      <workItem from="1557626991784" duration="2625000" />
+      <workItem from="1557730259526" duration="657000" />
+      <workItem from="1557734076102" duration="95000" />
+      <workItem from="1557747846443" duration="31000" />
+      <workItem from="1557841784807" duration="4260000" />
+      <workItem from="1557911432754" duration="1477000" />
+      <workItem from="1558096304868" duration="11545000" />
+      <workItem from="1558268140397" duration="3519000" />
+      <workItem from="1558350251010" duration="7105000" />
+      <workItem from="1558433677906" duration="18700000" />
+      <workItem from="1558492401093" duration="12325000" />
+      <workItem from="1558505808916" duration="282000" />
+      <workItem from="1558506156472" duration="88000" />
+      <workItem from="1558506820306" duration="2071000" />
+      <workItem from="1558508907387" duration="1051000" />
+      <workItem from="1558510062575" duration="35705000" />
+      <workItem from="1558549947374" duration="12271000" />
+      <workItem from="1558562604138" duration="4496000" />
+      <workItem from="1558567256050" duration="774000" />
+      <workItem from="1558568066405" duration="313000" />
+      <workItem from="1558568447039" duration="2852000" />
+      <workItem from="1558578914181" duration="2124000" />
+      <workItem from="1558684571937" duration="880000" />
+      <workItem from="1558685611642" duration="100000" />
+      <workItem from="1558686618427" duration="15871000" />
+      <workItem from="1558765272087" duration="3565000" />
+      <workItem from="1558769057888" duration="5771000" />
+      <workItem from="1558775403902" duration="2232000" />
+      <workItem from="1558860911831" duration="9032000" />
+      <workItem from="1558950957416" duration="182000" />
+      <workItem from="1558966591899" duration="143000" />
+      <workItem from="1558968362181" duration="62000" />
+      <workItem from="1559117378955" duration="259000" />
+      <workItem from="1560218915479" duration="412000" />
+      <workItem from="1560219457853" duration="275000" />
+      <workItem from="1560219931412" duration="97000" />
+      <workItem from="1561116030099" duration="265000" />
+      <workItem from="1561119670658" duration="2773000" />
+    </task>
+    <task id="LOCAL-00001" summary="实现了登陆注册">
+      <created>1553415118205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553415118205</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="370256000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26040268" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="调试" order="9" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.1396648" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="运行" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="运行" order="7" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12813738" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.1396648" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="调试" order="9" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="实现了登陆注册" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现了登陆注册" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://G:/网页创作/京东/携程网.html" />
+    <entry file="file://$PROJECT_DIR$/student/task.html" />
+    <entry file="file://$PROJECT_DIR$/css/teacherInterface.css" />
+    <entry file="file://$PROJECT_DIR$/css/studentInterface.css" />
+    <entry file="file://$PROJECT_DIR$/css/message.css" />
+    <entry file="file://$PROJECT_DIR$/js/studentInterface.js" />
+    <entry file="file://$PROJECT_DIR$/css/logIn.css" />
+    <entry file="file://$PROJECT_DIR$/student/message.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/browser.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/js/register.js" />
+    <entry file="file://$PROJECT_DIR$/register.html" />
+    <entry file="file://$PROJECT_DIR$/css/base.css" />
+    <entry file="file://$PROJECT_DIR$/studentInterface.html" />
+    <entry file="file://$PROJECT_DIR$/js/logIn.js" />
+    <entry file="file://$PROJECT_DIR$/index/js/teacherInterface.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherInterface.html" />
+    <entry file="file://$PROJECT_DIR$/student/js/resever.js" />
+    <entry file="file://$PROJECT_DIR$/index/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="5453" column="4" selection-start-line="5453" selection-start-column="4" selection-end-line="5453" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/js/strophe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="2699" column="65" selection-start-line="2699" selection-start-column="65" selection-end-line="2699" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/css/upload.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="84" column="18" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/js/screenShot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="53" column="39" lean-forward="true" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/js/strophe.messaging.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/js/upload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3621">
+          <caret line="629" column="17" lean-forward="true" selection-start-line="629" selection-start-column="17" selection-end-line="629" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/js/whiteboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/js/webuploader-0.1.5/webuploader.html5only.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/js/webuploader-0.1.5/webuploader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1774" column="4" lean-forward="true" selection-start-line="1774" selection-start-column="4" selection-end-line="1774" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/css/teacher.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="987" column="17" selection-start-line="987" selection-start-column="17" selection-end-line="987" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/js/webuploader-0.1.5/webuploader.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/js/myupload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="159" column="52" selection-start-line="159" selection-start-column="52" selection-end-line="159" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/js/muc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/js/strophe.muc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="774" column="4" selection-start-line="774" selection-start-column="4" selection-end-line="774" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291">
+          <caret line="140" column="28" lean-forward="true" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/require/require.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/css/file.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="66" column="1" lean-forward="true" selection-end-line="66" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logIn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/css/logIn.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="213" column="1" lean-forward="true" selection-start-line="1" selection-end-line="213" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/js/teacher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="432" selection-start-line="432" selection-end-line="432" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="54" column="1" lean-forward="true" selection-end-line="54" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/js/logIn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="85" column="3" lean-forward="true" selection-start-line="1" selection-end-line="85" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="44" column="7" lean-forward="true" selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="188" column="1" lean-forward="true" selection-end-line="188" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="293" column="7" lean-forward="true" selection-end-line="293" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/css/student.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="803" column="18" lean-forward="true" selection-start-line="803" selection-start-column="18" selection-end-line="803" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/js/student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="552" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="552" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/js/animates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" lean-forward="true" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/js/myupload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="135" column="28" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/js/ofwebrtc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="134" column="1" lean-forward="true" selection-end-line="134" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/js/screenShot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="146" column="1" lean-forward="true" selection-end-line="146" selection-end-column="1" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student/css/upload.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="421" column="1" lean-forward="true" selection-start-line="63" selection-end-line="421" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
